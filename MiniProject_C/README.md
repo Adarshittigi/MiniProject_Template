@@ -9,7 +9,7 @@ b) Then throw 6 to reach 28.
 c) Finally through 2 to reach 30.
 There can be other solutions as well like (2, 2, 6), (2, 4, 4), (2, 3, 5).. etc.
 
-INPUTS:
+Program and Algorithm:
 
 
 ![p1](https://user-images.githubusercontent.com/89312562/161387498-c376ea31-4b42-4b59-ab9e-1e718171c194.jpg)
@@ -24,7 +24,7 @@ INPUTS:
 
 ![p6](https://user-images.githubusercontent.com/89312562/161387525-ece4c43a-c297-4eb4-8b50-213ac8d01e0b.jpg)
 
-OUPUTS:
+OUTPUTS:
 
 
 
